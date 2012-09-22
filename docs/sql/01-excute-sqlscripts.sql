@@ -1,1 +1,1 @@
-mysql -h localhost -u root -pjustforfun < {path}/create-database.sql
+mysql -h localhost -u root -pjustforfun ONELIBRARY < {path}/create-database.sql
